@@ -1,6 +1,10 @@
 .container {
-  display: flex;
-  margin-top: 0 auto;
+  margin: 60px auto 0 auto;
+  background-color: #d8dcde;
+  width: 400px;
+  height: 100%;
+  padding: 100px;
+  border-radius: 4px;
 }
 
 .profile {
@@ -40,7 +44,7 @@
 .tag {
   padding-top: 12px;
   font-size: 18px;
-  color: #999;
+  color: #c8c9cc;
 }
 
 .location {
