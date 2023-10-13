@@ -2,8 +2,5 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": [src/components/TransactionHistory/.jsx
-    "src",
-    "src/components/HistoryTransactions/TransactionHistory.jsx"
-  ]
+  "include": ["src"]
 }
